@@ -1,6 +1,7 @@
 import React from 'react';
 
 
+
 const Footer = () =>{
 
     return(
@@ -8,10 +9,12 @@ const Footer = () =>{
     <div className="todo-foter">
         <div className = "footer-content">
         
-            <p className = "footer-p"> Alvarez Matias </p>
+            <div className = "footer-p">
+                <p> Alvarez Matias </p>
         
         </div>        
-        </div>       
+        </div> 
+        </div>      
 
 
   

@@ -1,0 +1,27 @@
+
+
+.todo-foter{
+	background:rgb(16, 20, 20);
+	height: 100%;
+	width: 100%;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color:rgb(200, 197, 201);
+}
+
+.footer-content{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+
+
+.footer-content .footer-p{
+	max-width: 500px;
+	margin: 5px auto;
+	line-height: 28px;
+	font-size: 20px; 
+  color: rgb(28, 215, 240);
+}

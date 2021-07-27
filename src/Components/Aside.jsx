@@ -23,7 +23,7 @@ const Aside = () =>{
                      </div> 
 
             <div>
-                <img className="zoom" src={imgrelleno}  width="300" height="300"  />
+                <img className="zoom" src={imgrelleno}  width="300" height="300" />
 
             </div>       
 

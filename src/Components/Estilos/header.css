@@ -1,0 +1,51 @@
+
+#menu{
+  
+    background-color: #000;
+  
+  }
+  
+  #menu ul{
+    height: 100px;
+    list-style: none;
+  }
+  
+  #menu ul li{
+    
+    display: inline-block;
+    
+  }
+  
+  #menu ul li a{
+    color: white;
+    display: block;
+    padding: 20px 40px;
+    text-decoration: none;
+  
+  }
+  
+  #menu ul li a:hover{
+    background-color: #42B881;
+  }
+  
+  .item-r{
+    margin-top: -50px;
+    font-family: cursive;
+    color: wheat;
+    text-align: center;
+    
+  }
+  
+  
+  
+  
+  .item-r:hover{
+    
+    color: #FFFFFF;
+    text-shadow: 0 0 8px #309b65, 0 0 2px #309b65, 0 0 10px #309b65, 0 0 6px #309b65, 0 0 20px #309b65, 0 0 20px #309b65, 0 0 1px #309b65, 0 0 12px #309b65;
+  }
+
+
+
+  
+  
