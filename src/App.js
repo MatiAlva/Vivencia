@@ -6,6 +6,7 @@ import Article from './Components/Article';
 import Aside from './Components/Aside';
 import Footer from './Components/Footer';
 import Modal from './Components/Modal';
+import Tienda from './Components/Tienda';
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import Foter from  './Components/Estilos/Foter.css';
@@ -14,24 +15,23 @@ import article from  './Components/Estilos/article.css';
 import aside from  './Components/Estilos/aside.css';
 import section from  './Components/Estilos/section.css';
 import modal from './Components/Estilos/modal.css';
+import tienda from './Components/Estilos/tienda.css';
 
 function App() {
   return (
     <div>
 
       <Header />
-
       <Modal />
-                  
-           
-
       <Section />
+     
 
 
 <br></br>
 <br></br>
 
     <Article />
+    <Tienda />
 
 
     <Aside />
